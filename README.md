@@ -319,5 +319,4 @@ python src/Proton.py
 
 Enjoy controlling your computer with gestures and voice! 🎉
 
-#   G e s t V o i c e  
- 
+#
