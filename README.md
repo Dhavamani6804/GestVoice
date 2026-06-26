@@ -113,9 +113,6 @@ After running `Proton.py`, say: **"Proton, [command]"**
 - "launch gesture recognition"
 - "stop gesture recognition"
 
-📚 **See [QUICK_REFERENCE.md](src/QUICK_REFERENCE.md) for complete command list**  
-🆕 **See [NEW_COMMANDS.md](src/NEW_COMMANDS.md) for new commands added**
-
 ## 🎯 How It Works
 
 ```
